@@ -36,12 +36,7 @@ Explore the range of components included:
 - Male & Female Headers: Various pin configurations to suit your needs.
 - USB Connectors: Reliable interfacing solutions.
 
-### 5️⃣ Sensors
-
-- **AHT21B**: Accurate Digital Temperature & Humidity Sensor.
-- **GP2Y1014AU0F**: Dust Sensor for air quality monitoring.
-
-### 6️⃣ Power Components
+### 5️⃣ Power Components
 
 - Voltage Regulators: For stable and efficient power delivery.
 - Diodes and MOSFETs: Essential for circuit protection and control.
